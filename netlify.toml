@@ -1,0 +1,11 @@
+[build]
+  # Default fallback configurations for common modern frontend frameworks
+  # (Vite uses "dist", Create React App uses "build", Next.js export uses "out")
+  publish = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false

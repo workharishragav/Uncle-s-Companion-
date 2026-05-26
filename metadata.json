@@ -1,0 +1,6 @@
+{
+  "name": "AXIS",
+  "description": "A calm life operating center to help you stay aligned across your morning routines, tactical priorities, monthly planning, and long-term direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
